@@ -1,0 +1,11 @@
+# Site settings
+title: GDG Milano
+email: hello@jacoporabolini.com
+description: > 
+  Il sito ufficiale del GDG Milano. Qui potete trovare informazoni sui Google Developer Group, su quello che facciamo e sui nostri eventi.
+baseurl: "" 
+url: "http://gdgmilano.org"
+
+# Build settings
+markdown: kramdown
+permalink: /:title
