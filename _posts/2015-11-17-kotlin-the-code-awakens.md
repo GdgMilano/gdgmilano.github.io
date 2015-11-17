@@ -25,8 +25,7 @@ Partiremo da un progetto Android scritto in Java e vedremo di convertire alcune 
 
 ###Piano degli eventi
 
-
-#### Giovedi 26/11/2015
+#### Giovedi 26/11/2015 - Talent Garden Milano, via Merano 16 - Milano
 * Introduzione: da Java a Kotlin *(1h30)*
 * Property, String templates, lambdas, lazy properties *(5min)*
 * Installare Kotlin su Android Studio *(5min)*
