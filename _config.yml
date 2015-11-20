@@ -9,3 +9,6 @@ url: "http://www.gdgmilano.org"
 # Build settings
 markdown: kramdown
 permalink: /:title
+
+gems:
+  - jekyll-sitemap
