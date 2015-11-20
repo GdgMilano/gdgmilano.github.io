@@ -61,6 +61,10 @@ NB: Per partecipare al codelab occorre portare il proprio laptop con installato 
     "@type" : "Place",
     "name" : "Talent Garden Milano",
     "address" : "via Merano 16, 20127, Milano"
+  },
+  "offers" : {
+	"@type" : "Offer",
+	"url" : "https://www.eventbrite.it/e/biglietti-android-kotlin-the-code-awakens-01-19544119989"
   }
 }
 </script>
