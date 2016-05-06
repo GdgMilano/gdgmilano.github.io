@@ -24,7 +24,7 @@ Alongside the talk there will be a dive into a couple of great tools out there t
 
 If time (and interest) permits, we can also look at Systrace or other tools for CPU performance.
 
-###About the speaker
+### About the speaker
 
 Doug Sillars [@dougsillars](https://twitter.com/dougsillars) is a leader in the mobile performance community, focusing on helping developers improve the speed and performance of mobile websites and applications. Doug has presented AT&T’s award winning performance tools at developer conferences around the world. A member of the AT&T Developer Program for the last 11 years, Doug is the technical lead on the performance outreach team. He is the author of O'Reilly's "*High Performance Android Apps*". In his spare time, Doug enjoys playing soccer with his wife and four children, shooing the muddy dogs off the sofa, and taking care of the various bunnies, chickens and furry goats that they keep on a small farm outside of Seattle.
 
