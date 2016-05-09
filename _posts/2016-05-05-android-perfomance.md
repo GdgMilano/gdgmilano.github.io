@@ -28,6 +28,12 @@ If time (and interest) permits, we can also look at Systrace or other tools for 
 
 Doug Sillars [@dougsillars](https://twitter.com/dougsillars) is a leader in the mobile performance community, focusing on helping developers improve the speed and performance of mobile websites and applications. Doug has presented AT&T’s award winning performance tools at developer conferences around the world. A member of the AT&T Developer Program for the last 11 years, Doug is the technical lead on the performance outreach team. He is the author of O'Reilly's "*High Performance Android Apps*". In his spare time, Doug enjoys playing soccer with his wife and four children, shooing the muddy dogs off the sofa, and taking care of the various bunnies, chickens and furry goats that they keep on a small farm outside of Seattle.
 
+### Where
+
+<div style="width:100%; text-align:left;">
+<iframe width="100%" height="450" frameborder="0" style="border:0"
+src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ1WLCkaXGhkcRXBH4EiKZ1Jg&key=AIzaSyB11l5WOMd4CF44z3sDkzmuyGNxZyvhMng" allowfullscreen></iframe>
+</div>
 
 ### Register
 
