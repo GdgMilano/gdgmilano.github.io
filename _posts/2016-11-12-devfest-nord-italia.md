@@ -19,6 +19,8 @@ La DevFest è l’evento GDG più importante dell’anno. Si tratta di un evento
 <br>
 Come dice la parola, la DevFest è prima di tutto una festa, un momento di ritrovo per gli sviluppatori, i professionisti dell’informatica, gli studenti e i tech enthusiast in generale.
 
+Per ulteriori informazioni visita: http://devfest2016.gdgmilano.org
+
 ### Dove
 
 <div style="width:100%; text-align:left;">
