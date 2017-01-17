@@ -6,7 +6,7 @@ image: assets/GenericBackground.png
 image-position: center
 date: 2017-01-01
 categories: eventi
-tags: android mvc
+tags: Javascript, RxJS
 level: beginner
 target: developer
 when: 19 gennaio 2017

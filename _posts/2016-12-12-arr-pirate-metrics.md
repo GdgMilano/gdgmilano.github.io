@@ -6,7 +6,7 @@ image: assets/GenericBackground.png
 image-position: center
 date: 2016-12-12
 categories: eventi
-tags: android mvc
+tags: android, firebase
 level: intermediate
 target: developer
 when: 12 dicembre 2016
