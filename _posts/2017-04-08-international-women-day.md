@@ -17,7 +17,7 @@ where: Mikamai, Via Giulio e Corrado Venini, 42, 20127 Milano
 
 Nel mese di Marzo, in cui si festeggia la Giornata Internazionale della Donna, Google sta lanciando una serie di eventi globali chiamati International Women's Day orientati ad accrescere la visibilità, le comunità e le risorse per le donne che vogliano cimentarsi, o che operano già, nei settori dell’Information Technology.
 
-Per informazioni sulla serie di eventi italiani visita [http://www.wtmitalia.it](www.wtmitalia.it)
+Per informazioni sulla serie di eventi italiani visita [www.wtmitalia.it](http://www.wtmitalia.it)
 
 Tema della giornata: Interventi, momenti di networking e codelab per sperimentare le ultime novità!
 
