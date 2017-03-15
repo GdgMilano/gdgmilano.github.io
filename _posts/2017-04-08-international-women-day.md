@@ -16,7 +16,9 @@ where: Mikamai, Via Giulio e Corrado Venini, 42, 20127 Milano
 ### Descrizione dell'evento
 
 Nel mese di Marzo, in cui si festeggia la Giornata Internazionale della Donna, Google sta lanciando una serie di eventi globali chiamati International Women's Day orientati ad accrescere la visibilità, le comunità e le risorse per le donne che vogliano cimentarsi, o che operano già, nei settori dell’Information Technology.
-Per informazioni sulla serie di eventi italiani visita [www.wtmitalia.it](www.wtmitalia.it)
+
+Per informazioni sulla serie di eventi italiani visita [http://www.wtmitalia.it](www.wtmitalia.it)
+
 Tema della giornata: Interventi, momenti di networking e codelab per sperimentare le ultime novità!
 
 ### Dove
@@ -25,4 +27,4 @@ Tema della giornata: Interventi, momenti di networking e codelab per sperimentar
 
 ### Registrati
 
-<div style="width:100%; text-align:left;"><iframe src="https://www.eventbrite.it/e/biglietti-international-womens-day-by-wtm-32243004695" frameborder="0" height="275" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.it/">Con tecnologia Eventbrite</a></div></div>
+<div style="width:100%; text-align:left;" ><iframe  src="https://www.eventbrite.it/e/biglietti-international-womens-day-by-wtm-32243004695?ref=eweb" frameborder="0" height="1000" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.it/">Con tecnologia Eventbrite</a></div></div>
