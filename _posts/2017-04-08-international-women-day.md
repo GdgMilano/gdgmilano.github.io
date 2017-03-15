@@ -23,7 +23,7 @@ Tema della giornata: Interventi, momenti di networking e codelab per sperimentar
 
 ### Dove
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2796.9704413361605!2d9.212965950871924!3d45.4905399789987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4786c6de217d0485%3A0x81495a0001650bcf!2sVia+Giulio+e+Corrado+Venini%2C+42%2C+20127+Milano!5e0!3m2!1sit!2sit!4v1488322696769" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d699.2435538620492!2d9.215146827311692!3d45.490463979101214!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4786c691fa65942d%3A0x25e0caaa3e7e8d5a!2sMikamai!5e0!3m2!1sen!2sit!4v1489583240799" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ### Registrati
 
