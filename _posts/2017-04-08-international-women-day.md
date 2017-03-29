@@ -22,15 +22,15 @@ Per informazioni sulla serie di eventi italiani visita [www.wtmitalia.it](http:/
 Tema della giornata: Interventi, momenti di networking e codelab per sperimentare le ultime novità!
 
 ```
-9:00      - check in -
-9:30    Presentazione GDG Milano
-10:00     - pausa caffè -
-10:15  Racconta la tua storia: presentazione di Marzia Borroni
-11:15  Primi passi con Google Apps Script (di Michel Murabito)
-13:30    - pausa pranzo -
-14:15  Primi passi con Java (di Lucrezia Patruno)
-16:00  Racconta la tua storia: presentazione di Fabio Carciofolo
-17:00  Chiusura
+09:00 -- check in --
+09:30 Presentazione GDG Milano
+10:00 -- pausa caffè --
+10:15 Racconta la tua storia: presentazione di Marzia Borroni
+11:15 Primi passi con Google Apps Script (di Michel Murabito)
+13:30 -- pausa pranzo --
+14:15 Primi passi con Java (di Lucrezia Patruno)
+16:00 Racconta la tua storia: presentazione di Fabio Carciofolo
+17:00 -- chiusura --
 ```
 
 ### Dove
