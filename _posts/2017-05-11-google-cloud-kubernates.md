@@ -6,9 +6,9 @@ image: assets/GenericBackground.png
 image-position: center
 date: 2017-05-11
 categories: eventi
-tags: Google Cloud, Kubernates
+tags: #GoogleCloud #Kubernates #CloudSpanner #CloudML
 level: intermediate
-target: all
+target: developer
 when: 11 maggio 2017
 where: Google Italia, Via Federico Confalonieri, 4, 20127 Milano
 ---
