@@ -6,7 +6,7 @@ image: assets/GenericBackground.png
 image-position: center
 date: 2017-05-11
 categories: eventi
-tags: #GoogleCloud #Kubernates #CloudSpanner #CloudML
+tags: GoogleCloud Kubernates CloudSpanner CloudML
 level: intermediate
 target: developer
 when: 11 maggio 2017
