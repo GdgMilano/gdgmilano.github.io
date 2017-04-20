@@ -33,8 +33,8 @@ Prima di lavorare nel settore della tecnologia per Google e Adobe, ha lavorato p
 
 ### Dove
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5594.354131929579!2d9.188886!3d45.486379!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x98d4992212f8115c!2sGoogle+Milan!5e0!3m2!1sit!2sus!4v1492635769012" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5594.354131929579!2d9.188886!3d45.486379!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x98d4992212f8115c!2sGoogle+Milan!5e0!3m2!1sit!2sus!4v1492635769012" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ### Registrati
 
-<div style="width:100%; text-align:left;"><iframe src="//eventbrite.it/tickets-external?eid=33807896328&ref=etckt" frameborder="0" height="275" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.it/">Con tecnologia Eventbrite</a></div></div>
+<div style="width:100%; text-align:left;"><iframe src="//eventbrite.it/tickets-external?eid=33807896328&ref=etckt" frameborder="0" height="360" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.it/">Con tecnologia Eventbrite</a></div></div>
