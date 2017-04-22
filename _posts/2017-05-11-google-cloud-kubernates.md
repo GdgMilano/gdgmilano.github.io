@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Google Cloud and Kubernates (with Terrence Ryan - Google)
+title: Google Cloud and Kubernetes (with Terrence Ryan - Google)
 description: GDG Milano meets Terrence Ryan - Goolge Cloud NEXT Update
 author: Omar Miatello
 image: assets/GenericBackground.png
 image-position: center
 date: 2017-05-11
 categories: eventi
-tags: GoogleCloud Kubernates CloudSpanner CloudML
+tags: GoogleCloud Kubernetes CloudSpanner CloudML
 level: intermediate
 target: developer
 when: 11 maggio 2017
