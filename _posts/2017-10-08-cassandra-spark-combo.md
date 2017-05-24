@@ -7,7 +7,7 @@ image: assets/GenericBackground.png
 image-position: center
 date: 2017-05-17
 categories: eventi
-tags: Big Data, NoSQL, Cassandra, Spark, Small Data, Elixir, Flow, GenStage
+tags: Big Data, NoSQL, Cassandra, Spark, Small Data, Elixir, Flow, GenStage, elixir Milano
 level: intermediate
 target: developer
 when: 08 giugno 2017
@@ -15,6 +15,8 @@ where: Mikamai - Venini42 | Via Giulio e Corrado Venini, 42, Milano
 ---
 
 ### Descrizione dell'evento
+
+<strong>Evento organizzato in collaborazione con <a href="https://www.meetup.com/it-IT/Elixir-Milano/">Elixir Milano</a></strong>
 
 Problemi con i database relazionali in uno scenario Big Data? Quale tecnologia NoSQL si può impiegare? 
 
@@ -39,4 +41,4 @@ Developer • MS in Computer Science • <a href="http://www.merriam-webster.com
 
 ### Registrati
 
-<div style="width:100%; text-align:left;"><iframe src="//eventbrite.it/tickets-external?eid=34616704495&ref=etckt" frameborder="0" height="360" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.it/">Con tecnologia Eventbrite</a></div></div>
+Iscrizioni su <a href="http://meetu.ps/e/CRjDz/zWygT/f"><strong>Meetup</strong></a>
