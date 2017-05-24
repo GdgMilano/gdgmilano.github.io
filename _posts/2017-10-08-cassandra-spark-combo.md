@@ -33,7 +33,7 @@ Marc è uno statistico di formazione che ha deciso di investire il suo tempo lav
 
 Gianluca Randazzo
 
-Developer • MS in Computer Science • <a href="http://www.merriam-webster.com/dictionary/nerd">http://www.merriam-webster.com/dictionary/nerd</a> • @mikamai • It's all about 間
+Developer • MS in Computer Science • <a href="http://www.merriam-webster.com/dictionary/nerd" target="_blank">http://www.merriam-webster.com/dictionary/nerd</a> • @mikamai • It's all about 間
 
 ### Dove
 
@@ -41,4 +41,4 @@ Developer • MS in Computer Science • <a href="http://www.merriam-webster.com
 
 ### Registrati
 
-Iscrizioni su <a href="http://meetu.ps/e/CRjDz/zWygT/f"><strong>Meetup</strong></a>
+Iscrizioni su <a href="http://meetu.ps/e/CRjDz/zWygT/f" target="_blank"><strong>Meetup</strong></a>
