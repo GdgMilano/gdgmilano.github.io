@@ -7,7 +7,7 @@ image: assets/GenericBackground.png
 image-position: center
 date: 2017-05-17
 categories: eventi
-tags: Big Data, NoSQL, Cassandra, Spark, Small Data, Elixir, Flow, GenStage, elixir Milano
+tags: Big Data NoSQL Cassandra Spark Small Data Elixir Flow GenStage elixir Milano
 level: intermediate
 target: developer
 when: 08 giugno 2017
