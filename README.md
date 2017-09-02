@@ -1,2 +1,2 @@
-# gdgmilano.github.io
+# gdgmilano.it
 Sito del GDG Milano
