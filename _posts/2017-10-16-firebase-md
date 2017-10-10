@@ -2,7 +2,7 @@
 layout: post
 title: Serverless con Firebase Cloud Functions
 author: Matteo
-image: assets/GDD.png
+image: assets/GenericBackground.png
 image-position: center
 date: 2017-10-16
 categories: eventi
@@ -18,7 +18,7 @@ Introduzione a Firebase Cloud Functions con esempi e casi d'uso.
 
 Parleremo di cosa sono le Firebase Cloud Functions e di come interagiscono con il realtime-database di Firebase e altri servizi per creare architetture serverless event-driven.
 
-Per saperne di piu, puoi guardare il video introduttivo (2min): <a href="https://www.youtube.com/watch?v=vr0Gfvp5v1A&feature=share">GDD Europe</a>
+Per saperne di piu, puoi guardare il video introduttivo (2min): <a href="https://www.youtube.com/watch?v=vr0Gfvp5v1A&feature=share"></a>
 
 <p>Ringraziamo <a title="Venini42" href="http://venini42.it/" target="_blank">Venini42</a>&nbsp;che ospita l'evento.</p>
 
