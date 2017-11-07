@@ -1,4 +1,4 @@
 ---
-redirect_from: "/r/devfest18"
+title: "DevFest 18"
 redirect_to: "https://goo.gl/AyqqZB"
 ---
