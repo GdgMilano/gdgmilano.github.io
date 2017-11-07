@@ -12,6 +12,7 @@ permalink: /:title
 
 gems:
   - jekyll-sitemap
+  - jekyll-redirect-from
   
 plugins:
   - jekyll-redirect-from
