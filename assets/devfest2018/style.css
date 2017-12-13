@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+html, body {
+    height: 100%;
+}
+body * {
+    font-family: roboto, sans-serif;
+}
+body {
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    background-color: #e5ffff;
+    margin: 0;
+}
+
+@font-face {
+    font-family: 'HELLODENVERDISPLAYREGULARRg';
+    src: url('fonts/hellodenverdisplayregular_v1.6.eot');
+    src: url('fonts/hellodenverdisplayregular_v1.6.eot?#iefix') format('embedded-opentype'),
+    url('fonts/hellodenverdisplayregular_v1.6.woff') format('woff'),
+    url('fonts/hellodenverdisplayregular_v1.6.ttf') format('truetype'),
+    url('fonts/hellodenverdisplayregular_v1.6.svg#HELLODENVERDISPLAYREGULARRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/*Neon*/
+.title {
+    padding-top: 50px;
+}
+.title  *{
+    text-align: center;
+    font-family: HELLODENVERDISPLAYREGULARRg;
+
+}
+
+.title a {
+    text-decoration: none;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    transition: all 0.5s;
+    cursor: pointer;
+    padding: 0 0 30px 0;
+
+}
+
+.title a:hover {
+    color: #fff;
+    -webkit-animation: neon1 1.5s ease-in-out infinite alternate;
+    -moz-animation: neon1 1.5s ease-in-out infinite alternate;
+    animation: neon1 1.5s ease-in-out infinite alternate;
+
+}
+
+.title a{
+    color: #FF1177;
+    -webkit-animation: none;
+    -moz-animation: none;
+    animation: none;
+    font-size: 9em;
+
+
+}
+
+
+.title a:hover {
+    color: #ffffff;
+}
+/*glow for webkit*/
+
+@-webkit-keyframes neon1 {
+    from {
+        text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #FF1177, 0 0 70px #FF1177, 0 0 80px #FF1177, 0 0 100px #FF1177, 0 0 150px #FF1177;
+    }
+    to {
+        text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #FF1177, 0 0 35px #FF1177, 0 0 40px #FF1177, 0 0 50px #FF1177, 0 0 75px #FF1177;
+    }
+}
+
+
+/*glow for mozilla*/
+
+@-moz-keyframes neon1 {
+    from {
+        text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #FF1177, 0 0 70px #FF1177, 0 0 80px #FF1177, 0 0 100px #FF1177, 0 0 150px #FF1177;
+    }
+    to {
+        text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #FF1177, 0 0 35px #FF1177, 0 0 40px #FF1177, 0 0 50px #FF1177, 0 0 75px #FF1177;
+    }
+}
+
+
+/*glow*/
+
+@keyframes neon1 {
+    from {
+        text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #FF1177, 0 0 70px #FF1177, 0 0 80px #FF1177, 0 0 100px #FF1177, 0 0 150px #FF1177;
+    }
+    to {
+        text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #FF1177, 0 0 35px #FF1177, 0 0 40px #FF1177, 0 0 50px #FF1177, 0 0 75px #FF1177;
+    }
+}
+
+
+
+.container {
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    background-color: #512da8;
+    box-shadow: 0px 5px 9px 1px  #4bacb8;
+    color: black;
+    text-align: center;
+
+}
+
+.buttons-container {
+    text-align: center;
+    padding: 2vw;
+}
+button {
+    background-color: white;
+    height: 40px;
+    border: none;
+    color: #512da8;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin: 10px;
+    box-shadow: 2px 2px 0px 0.1px #140078;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 156px;
+}
+a{
+    text-decoration: none;
+}
+img {
+    max-width: 350px
+}
+
+.abstract {
+    font-size: 20px;
+    max-width: 800px;
+    margin: auto;
+    padding: 40px;
+    text-align: center;
+}
+.int-container {
+    height: 80px;
+}
+.logoGDG{
+    background: url(logo.svg) center left no-repeat;
+    background-size: contain;
+    float: left;
+    width: 200px;
+    height: 50px;
+}
+.save-date{
+    float: right;
+    font-weight: bold;
+}
+@media (max-width: 650px) {
+    .title {
+        padding-top: 30px;
+    }
+    .title a {
+        font-size: 4.5em;
+    }
+}
