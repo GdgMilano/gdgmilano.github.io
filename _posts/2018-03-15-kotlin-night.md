@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Kkotlin night Milano 2018 - Kotlin JVM/JS
+title: Kotlin night Milano 2018 - Kotlin JVM/JS
 author: Giulia
-image: assets/kotlin-night.png
+image: assets/kotlin-night.jpeg
 image-position: center
 date: 2018-03-15
 categories: eventi
