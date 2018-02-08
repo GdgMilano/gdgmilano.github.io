@@ -33,7 +33,7 @@ Sponsor: JetBrains
 
 ### Dove
 
-<iframe src="<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2796.447523561225!2d9.1845223!3d45.501069099999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4786c0d752e6c001%3A0x2f34f02c4b5b6ad1!2sSubito!5e0!3m2!1sit!2sit!4v1518097149996" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>" style="border:0; height: 450px; width:100%" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2796.447523561225!2d9.1845223!3d45.501069099999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4786c0d752e6c001%3A0x2f34f02c4b5b6ad1!2sSubito!5e0!3m2!1sit!2sit!4v1518097149996" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ### Registrati
 
