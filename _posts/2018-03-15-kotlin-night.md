@@ -19,12 +19,14 @@ where: Subito.it | Via Benigno Crespi, 19, Milano
 
 L'evento sarà totalmente gratuito e si svolgerà presso Subito.it in Via Benigno Crespi, 19 - Mac 3 · Milano.
 
-19:15 - Accoglienza ospiti
-19:30 - Presentazione evento
-[Kotlin/JVM] Kotlin lato backend (Francesco Vasco - Lightstreamer)
-[Kotlin/JS] Kotlin su Firebase Cloud Functions (Omar Miatello - Android Developer @ Satispay)
-[Kotlin/JVM] Kotlin su Android (Giacomo Bresciani - Subito.it)
-[Kotlin/JVM] Kotlin coroutine (Roberto Orgiu - Android GDE & Android Engineer @ NYTimes)
+<ul>
+<li>19:15 - Accoglienza ospiti</li>
+<li>19:30 - Presentazione evento</li>
+<li>[Kotlin/JVM] Kotlin lato backend (Francesco Vasco - Lightstreamer)</li>
+<li>[Kotlin/JS] Kotlin su Firebase Cloud Functions (Omar Miatello - Android Developer @ Satispay)</li>
+<li>[Kotlin/JVM] Kotlin su Android (Giacomo Bresciani - Subito.it)</li>
+<li>[Kotlin/JVM] Kotlin coroutine (Roberto Orgiu - Android GDE & Android Engineer @ NYTimes)</li>
+</ul>
 
 L'evento è svolto in collaborazione con JUG Milano
 Sponsor: JetBrains
