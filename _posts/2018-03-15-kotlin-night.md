@@ -21,29 +21,29 @@ L'evento sarà totalmente gratuito e si svolgerà presso Subito.it in Via Benign
 
 <ul>
 <li>19:15 - Accoglienza ospiti</li>
-</br>
+
 <li>19:30 - Presentazione evento</li>
-</br>
+
 <li>1° talk: Kotlin/JVM, Android, Coroutines
 Speaker: Roberto Orgiu - Android GDE & Android Engineer @ New York Times
 Title: eAsync Kotlin
 Abstract: Writing async code is never easy, but nowadays we have many solutions. One approach would be to use RxJava and its schedulers but... have you heard of Kotlin Coroutines? Join us and let's see how good they are today!
 </li>
-</br>
+
 <li>2° talk: Kotlin/JVM, Android
 Speaker: Giacomo Bresciani - Android Engineer @ Subito.it
 Title: Having fun with DSLs: Kotlin Type-safe builders explained!
 Abstract: At first glance Kotlin DSLs might seem like magic but they are just the result of combining some language features (Extension Functions, Function Literals with Receiver...) in a very clever and cool way to create Type-safe builders. The language is evolving and new tools such as @DslMaker annotation are introduced to make Kotlin DSL even more safe useful.
 The aim of the talk is not to just explain how to use all this tools but also to present them in details and clarify how they are combined to create one of the more powerful Kotlin feature.
 </li>
-</br>
+
 <li>
 3° talk: Kotlin/JS, backends, Google Cloud Functions
 Speaker: Omar Miatello - Android Developer @ Satispay
 Title: Google Cloud Functions: try { Kotlin } insteadOf JavaScript
 Abstract: How to write (almost) free backend services on Google Cloud Functions in Kotlin
 </li>
-</br>
+
 <li>
 4° talk: Kotlin/JVM, backends, Coroutines
 Speaker: Francesco Vasco - Software Architect @ Lightstreamer
